@@ -1,0 +1,4 @@
+/var/log/nginx/
+/home/user/documents/
+/opt/app/config/
+/srv/www/html/

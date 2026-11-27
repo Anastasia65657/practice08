@@ -1,0 +1,8 @@
+/var/log/nginx/
+/etc/hosts
+/home/user/documents/
+/usr/local/bin/java
+/opt/app/config/
+/tmp/backup_2026.tar.gz
+/srv/www/html/
+/root/.bashrc
